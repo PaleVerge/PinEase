@@ -5,3 +5,4 @@ import TestPose from './components/TestPose.vue'
 <template>
   <TestPose/>
 </template>
+adajkldfjk
